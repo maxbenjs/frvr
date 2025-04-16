@@ -28,9 +28,10 @@ The focus is on:
 ##### Task 2: A/B Test Analysis – Business Decision Making
 
 Approach:
-- Several python functions which:
--   Creates a dynamic dataframe (using SQL) so that we can easily create data to test KPIs at day-n
--   Chi2 Stat Test
--   Independent T-Test
-
+- Create multiple python functions, which:
+-   (1) Creates a dynamic dataframe (using SQL) so that we can easily create data to test KPIs at day-n
+-   (2) Chi2 Stat Test (Used for Retention Rate. A binary outcome and where we make no assumptions about the data distribution)
+-   (3) Independent T-Test (Used for ARPU. Where revenue is a continuous variable (i.e. revenue can be an infinite number of values within a given range) 
+-   (4) Visualise Retetention Rate data
+-   (5) Visualise ARPU
 - [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
