@@ -1,6 +1,6 @@
 # 🎯 FRVR: Senior Analyst Business Case
 
-## Introduction
+### Introduction
 
 FRVR has presented me with a Business Case Study, in which FRVR has been testing a new rewarded ad model.
 
