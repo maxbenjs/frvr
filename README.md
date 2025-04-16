@@ -22,4 +22,4 @@ The focus is on:
 ##### Task 1: SQL Query – Cohort Analysis & Retention Trends
 
 - All
-- [<frvr_notebook_task_1>](<[Your Download Link here](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)>)
+- [frvr_notebook_task_1](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
