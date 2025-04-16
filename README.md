@@ -28,6 +28,7 @@ The focus is on:
 
 
 
+
 #### 2: A/B Test Analysis – Business Decision Making
 
 Approach: 
@@ -41,6 +42,7 @@ Create multiple python functions, which:
 Finally, we run those functions sequentially to get all the relevant data in an output cell
 
 Workings in the following Notebook: [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
+
 
 
 
