@@ -40,4 +40,8 @@ Approach: Create multiple python functions, which:
 ##### Task 3 & 4: Executive-Level Data Visualization, Final Business Recommendation & Executive Summary
 
 Approach:
-I've combined these tasks into a single presentation. The presentation can be found here: [frvr_presentation_task_3_4.pdf](https://github.com/maxbenjs/frvr/blob/main/frvr_presentation_task_3_4.pdf). The workings for the data & visulisations were done in the following notebook: [frvr_notebook_task_3_4.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_3_4.ipynb)
+I've combined these tasks into a single presentation. 
+- The presentation can be found here: [frvr_presentation_task_3_4.pdf](https://github.com/maxbenjs/frvr/blob/main/frvr_presentation_task_3_4.pdf)
+- The workings for the data & visulisations were done in the following notebook: [frvr_notebook_task_3_4.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_3_4.ipynb)
+
+Reasoning:
