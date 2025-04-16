@@ -21,14 +21,14 @@ The focus is on:
 ## Tasks & How I've answered them
 
 
-#### Task 1: SQL Query – Cohort Analysis & Retention Trends
+#### 1: SQL Query – Cohort Analysis & Retention Trends
 
 - Everything presented in notebook including: SQL Query, Output Table, Additional Insights
 - [frvr_notebook_task_1.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
 
 
 
-#### Task 2: A/B Test Analysis – Business Decision Making
+#### 2: A/B Test Analysis – Business Decision Making
 
 Approach: 
 Create multiple python functions, which:
@@ -44,7 +44,7 @@ Workings in the following Notebook: [frvr_notebook_task_2.ipynb](https://github.
 
 
 
-#### Task 3 & 4: Executive-Level Data Visualization, Final Business Recommendation & Executive Summary
+#### 3 & 4: Executive-Level Data Visualization, Final Business Recommendation & Executive Summary
 
 Approach:
 I've combined these tasks into a single presentation. 
