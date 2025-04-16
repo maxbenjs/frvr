@@ -21,5 +21,12 @@ The focus is on:
 
 ##### Task 1: SQL Query – Cohort Analysis & Retention Trends
 
-- All
-- [frvr_notebook_task_1](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
+- Everything presented in notebook including: SQL Query, Output Table, Additional Insights
+- [frvr_notebook_task_1.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
+
+
+##### Task 2: A/B Test Analysis – Business Decision Making
+
+Approach:
+- Several python functions which: 1) 
+- [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
