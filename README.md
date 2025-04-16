@@ -28,5 +28,9 @@ The focus is on:
 ##### Task 2: A/B Test Analysis – Business Decision Making
 
 Approach:
-- Several python functions which: 1) 
+- Several python functions which:
+-   Creates a dynamic dataframe (using SQL) so that we can easily create data to test KPIs at day-n
+-   Chi2 Stat Test
+-   Independent T-Test
+
 - [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
