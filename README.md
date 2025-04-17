@@ -58,6 +58,6 @@ I've combined the tasks into a single presentation.
 ### File Note
 
 - Initially all the work was done in a single notebook: [frvr_notebook_playground.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_playground.pdf)
-- These notebook is somewhat messy, and has additional analyses & visualisations that were created during the work on the task
+- This notebook is somewhat messy, and has additional analyses & visualisations that were created during the work on the task
 - Finally, I moved the relevant work for each task into separate notebooks
 - It can be reviewed to get an intuitive feel of my work and approach to the task
