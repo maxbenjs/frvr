@@ -28,18 +28,12 @@ The focus is on:
 
 
 
-
 ### 2: A/B Test Analysis – Business Decision Making
 
 Approach: 
-Create multiple python functions, which:
-1. Creates a dynamic dataframe (using SQL) so that we can easily create data to test KPIs at day-n
-2. Chi2 Stat Test (Used for Retention Rate. A binary outcome and where we make no assumptions about the data distribution)
-3. Independent T-Test (Used for ARPU. Where revenue is a continuous variable)
-4. Visualise Retetention Rate data
-5. Visualise ARPU
-
-Finally, we run those functions sequentially to get all the relevant data in an output cell
+1. Jupyter Notebook
+2. Create multiple python functions, which create dynamic datasets, runs statistical significance tests and visualises data / outcomes
+3. These functions are then run sequentially to get all relevant data in an output cell
 
 Workings in the following notebook: [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
 
@@ -49,13 +43,13 @@ Workings in the following notebook: [frvr_notebook_task_2.ipynb](https://github.
 ### 3 & 4: Executive-Level Data Visualization, Final Business Recommendation & Executive Summary
 
 Approach:
-I've combined these tasks into a single presentation. 
+I've combined the tasks into a single presentation. 
 - The presentation can be found here: [frvr_presentation_task_3_4.pdf](https://github.com/maxbenjs/frvr/blob/main/frvr_presentation_task_3_4.pdf)
 - The workings for the data & visulisations were done in the following notebook: [frvr_notebook_task_3_4.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_3_4.ipynb)
 
 
 Reasoning:
-- Ideally the data would be visualised in a dashboard in a BI Solution. Within a one-page executive summary we would link to the BI Solution
+- Ideally the data would be visualised in dashboard in a BI Solution. Within a one-page executive summary we would link to the BI Solution
 - I didn't set-up a BI solution due to time constraints
 - The presentation starts of with the executive summary (task 4), before walking through the visualisations (task 3)
 - The executive summary (task 4) is across 3 slides, which approximately corresponds to a single 1-page document
