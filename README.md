@@ -24,18 +24,18 @@ The focus is on:
 ### 1: SQL Query – Cohort Analysis & Retention Trends
 
 - Everything presented in notebook including: SQL Query, Output Table, Additional Insights
-- [frvr_notebook_task_1.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
+- Notebook: [frvr_notebook_task_1.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_1.ipynb)
 
 
 
 ### 2: A/B Test Analysis – Business Decision Making
 
 Approach: 
-1. Jupyter Notebook
-2. Create multiple python functions, which create dynamic datasets, runs statistical significance tests and visualises data / outcomes
-3. These functions are then run sequentially to get all relevant data in an output cell
+- Jupyter Notebook
+- Create multiple python functions, which create dynamic datasets, runs statistical significance tests and visualises data / outcomes
+- These functions are then run sequentially to get all relevant data in an output cell
 
-Workings in the following notebook: [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
+Notebook: [frvr_notebook_task_2.ipynb](https://github.com/maxbenjs/frvr/blob/main/frvr_notebook_task_2.ipynb)
 
 
 
